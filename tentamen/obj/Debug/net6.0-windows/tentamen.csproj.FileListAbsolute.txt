@@ -1,0 +1,17 @@
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\bin\Debug\net6.0-windows\tentamen.exe
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\bin\Debug\net6.0-windows\tentamen.deps.json
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\bin\Debug\net6.0-windows\tentamen.runtimeconfig.json
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\bin\Debug\net6.0-windows\tentamen.dll
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\bin\Debug\net6.0-windows\tentamen.pdb
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.csproj.AssemblyReference.cache
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.csproj.GenerateResource.cache
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.AssemblyInfoInputs.cache
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.AssemblyInfo.cs
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.csproj.CoreCompileInputs.cache
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.dll
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\refint\tentamen.dll
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.pdb
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.genruntimeconfig.cache
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\ref\tentamen.dll
+D:\informatica\jaar 1\p4\c#\tentamen\tentamen\obj\Debug\net6.0-windows\tentamen.Trail.resources
